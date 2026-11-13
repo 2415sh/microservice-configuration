@@ -1,1 +1,6 @@
+spring:
+  application:
+    name: config-default
 
+welcome:
+  message: Hello from GitHub Config
